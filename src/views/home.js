@@ -1,5 +1,6 @@
 function Home() {
-    return (
-    <div> <h3 className>"home"</h3> </div>
-    );
+    return  <div> <h3 className>"home"</h3> </div>
+    
+
+    
 }
